@@ -1,0 +1,9 @@
+name: airhost_lint_plugin_bootstrap
+version: 0.0.1
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  airhost_lint_plugin:
+    path: E:\Android\airhost\airhost_lint_plugin

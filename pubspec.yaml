@@ -1,0 +1,14 @@
+name: airhost_lint_plugin
+description: A new Flutter project.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  analyzer_plugin: ^0.3.0
+  quick_log: any
+  path: any
+
+dev_dependencies:
+  test: any
