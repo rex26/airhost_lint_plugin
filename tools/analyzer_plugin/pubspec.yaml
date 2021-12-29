@@ -6,4 +6,6 @@ environment:
 
 dependencies:
   airhost_lint_plugin:
-    path: E:\Android\airhost\airhost_lint_plugin
+    git:
+#      url: E:\Android\airhost\airhost_lint_plugin
+      url: https://github.com/rex26/airhost_lint_plugin.git
